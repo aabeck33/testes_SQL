@@ -1,0 +1,1 @@
+select idrole, nmrole from adrole where idrole like '%-cm_avd-0%'
